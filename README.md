@@ -1,4 +1,4 @@
-# I18n Push Action
+# I18n Laravel Push Action
 
 This action pushes i18n keysets from Laravel project to [localang.xyz](https://localang.xyz) service.
 
